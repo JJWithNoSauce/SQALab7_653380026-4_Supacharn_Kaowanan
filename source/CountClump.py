@@ -2,6 +2,8 @@
 # SC353201 Software Quality Assurance
 # Semester 1/2567
 # Instructor: Chitsutha Soomlek
+# Student : Supacharn Kaowanan 653380026-4 Section 1
+
 
 class CountClump:
   """
